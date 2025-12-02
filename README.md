@@ -36,10 +36,3 @@ Currently seeking opportunities to contribute to meaningful projects and grow as
 [![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white)](https://www.phpmyadmin.net/)
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)](https://www.apachefriends.org/)
 
-<br><br>  
-
-<p align="left">
-  <a href="https://github.com/mannuccimattia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuccimattia&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
